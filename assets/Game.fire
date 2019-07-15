@@ -81,7 +81,7 @@
     "_level": 0,
     "_components": [
       {
-        "__id__": 11
+        "__id__": 12
       }
     ],
     "_prefab": null,
@@ -400,6 +400,9 @@
     "_components": [
       {
         "__id__": 10
+      },
+      {
+        "__id__": 11
       }
     ],
     "_prefab": null,
@@ -474,6 +477,20 @@
     "_state": 0,
     "_atlas": null,
     "_id": "823MLuMM5A3KMhHwbhteWb"
+  },
+  {
+    "__type__": "5b1f72taQ1Cvq9JlabrLPCn",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 9
+    },
+    "_enabled": true,
+    "jumpHeight": 200,
+    "jumpDuration": 0.3,
+    "maxMoveSpeed": 400,
+    "accel": 350,
+    "_id": "b64TC+jK1I47B8sTA+IuY5"
   },
   {
     "__type__": "cc.Canvas",
