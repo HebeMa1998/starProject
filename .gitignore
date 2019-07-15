@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# these folders are ignored
+library/
+local/
+build/
+temp/
+
+*.meta
